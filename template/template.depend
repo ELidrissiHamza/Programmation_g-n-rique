@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1667550394 source:c:\users\dell\desktop\my_stuff\ilisi2\c++\code_c++\template\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"template.cpp"
+
+1667550380 c:\users\dell\desktop\my_stuff\ilisi2\c++\code_c++\template\template.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1667550380 source:c:\users\dell\desktop\my_stuff\ilisi2\c++\code_c++\template\template.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"template.h"
+
+1667550380 c:\users\dell\desktop\my_stuff\ilisi2\c++\code_c++\template\template.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"template.h"
+
